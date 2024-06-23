@@ -5,18 +5,18 @@ Výzkumné otázky + odpovědi (SQL statementy použité pro vypracování níž
 Mzdy ve všech odvětvích v průběhu let převážně rostou, je zde pár výjimek (pokles mezd ve srovnání s předešlým oddobí ve stejném odvětví).
 Tyto výjimky jsou uvedeny v přiloženém excel souboru, list "Otázka č. 1", filter na sloupci: "Result comment" - "decrease".
 
-2. Kolik je možné si koupit litrů mléka a kilogramů chleba za první a poslední srovnatelné období v dostupných datech cen a mezd?
+3. Kolik je možné si koupit litrů mléka a kilogramů chleba za první a poslední srovnatelné období v dostupných datech cen a mezd?
 První srovnatelné období je 2006, poslední srovnatelné období je 2018.
 V roce 2006 bylo možné si za průměrnou mzdu koupit 1 172 kg chleba a 1 413 litrů mléka.
 V roce 2018 bylo potom možné si za průměrnou mzdu koupit 1 292 kg chleba a 1 574 litrů mléka.
 Výpočty jsou zahrnuty v excel souboru, list "Otázka č. 2" (do podmínky v SQL statementu byly navíc přidány příslušné category codes 111301, 114201 a roky - 2006, 2018).
 
-3. Která kategorie potravin zdražuje nejpomaleji (je u ní nejnižší percentuální meziroční nárůst)?
+4. Která kategorie potravin zdražuje nejpomaleji (je u ní nejnižší percentuální meziroční nárůst)?
 Z celkového přehledu zdražování potravin mezi roky 2006 až 2018 se za celé toto sledované období nejméně zvyšovala cena krystalového cukru.
 Nejnižší procentuální nárůst se týká jablek konzumních mezi roky 2009 a 2008.
 Výpočty obsahuje excel soubor, list "Otázka č. 3".
 
-4. Existuje rok, ve kterém byl meziroční nárůst cen potravin výrazně vyšší než růst mezd (větší než 10 %)?
+5. Existuje rok, ve kterém byl meziroční nárůst cen potravin výrazně vyšší než růst mezd (větší než 10 %)?
 
 
-5. Má výška HDP vliv na změny ve mzdách a cenách potravin? Neboli, pokud HDP vzroste výrazněji v jednom roce, projeví se to na cenách potravin či mzdách ve stejném nebo násdujícím roce výraznějším růstem?
+6. Má výška HDP vliv na změny ve mzdách a cenách potravin? Neboli, pokud HDP vzroste výrazněji v jednom roce, projeví se to na cenách potravin či mzdách ve stejném nebo násdujícím roce výraznějším růstem?
