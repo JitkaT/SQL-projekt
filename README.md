@@ -7,8 +7,8 @@ Tyto výjimky jsou uvedeny v přiloženém excel souboru, list "Otázka č. 1", 
 
 2. Kolik je možné si koupit litrů mléka a kilogramů chleba za první a poslední srovnatelné období v dostupných datech cen a mezd?
 První srovnatelné období je 2006, poslední srovnatelné období je 2018.
-V roce 2006 bylo možné si za průměrnou mzdu koupit 1 262 kg chleba a 1 409 litrů mléka.
-V roce 2018 bylo potom možné si za průměrnou mzdu koupit 1 319 kg chleba a 1 614 litrů mléka.
+V roce 2006 bylo možné si za průměrnou mzdu koupit 1 172 kg chleba a 1 413 litrů mléka.
+V roce 2018 bylo potom možné si za průměrnou mzdu koupit 1 292 kg chleba a 1 574 litrů mléka.
 Výpočty jsou zahrnuty v excel souboru, list "Otázka č. 2".
 
 3. Která kategorie potravin zdražuje nejpomaleji (je u ní nejnižší percentuální meziroční nárůst)?
