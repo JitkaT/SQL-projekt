@@ -15,7 +15,7 @@ Shrnutí je uloženo v excel souboru, list "Otázka č. 2".
 4. Která kategorie potravin zdražuje nejpomaleji (je u ní nejnižší percentuální meziroční nárůst)?
 Z celkového přehledu zdražování potravin mezi roky 2006 až 2018 se za celé toto sledované období nejméně zvyšovala cena krystalového cukru.
 Nejnižší procentuální nárůst se týká jablek konzumních mezi roky 2009 a 2008.
-Výpočty obsahuje excel soubor, list "Otázka č. 3".
+Viz excel soubor, list "Otázka č. 3".
 
 5. Existuje rok, ve kterém byl meziroční nárůst cen potravin výrazně vyšší než růst mezd (větší než 10 %)?
 
