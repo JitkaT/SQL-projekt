@@ -3,13 +3,13 @@ Výzkumné otázky + odpovědi (SQL statementy použité pro vypracování níž
 
 1. Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?
 Mzdy ve všech odvětvích v průběhu let převážně rostou, je zde pár výjimek (pokles mezd ve srovnání s předešlým oddobí ve stejném odvětví).
-Tyto výjimky jsou uvedeny v přiloženém excel souboru, list "Otázka č. 1", filter na sloupci: "Result comment" - "decrease".
+Tyto výjimky jsou uvedeny v přiloženém excel souboru, list "Otázka č. 1", filter na sloupci: "result comment" - "decrease".
 
 3. Kolik je možné si koupit litrů mléka a kilogramů chleba za první a poslední srovnatelné období v dostupných datech cen a mezd?
 První srovnatelné období je 2006, poslední srovnatelné období je 2018.
 V roce 2006 bylo možné si za průměrnou mzdu koupit 1 172 kg chleba a 1 413 litrů mléka.
 V roce 2018 bylo potom možné si za průměrnou mzdu koupit 1 292 kg chleba a 1 574 litrů mléka.
-Výpočty jsou zahrnuty v excel souboru, list "Otázka č. 2" (do podmínky v SQL statementu byly navíc přidány příslušné category codes 111301, 114201 a roky - 2006, 2018).
+Shrnutí je uloženo v excel souboru, list "Otázka č. 2" (do podmínky v SQL statementu byly navíc přidány příslušné category codes 111301, 114201 a roky - 2006, 2018).
 
 4. Která kategorie potravin zdražuje nejpomaleji (je u ní nejnižší percentuální meziroční nárůst)?
 Z celkového přehledu zdražování potravin mezi roky 2006 až 2018 se za celé toto sledované období nejméně zvyšovala cena krystalového cukru.
