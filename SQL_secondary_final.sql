@@ -4,8 +4,3 @@ FROM economies e
 JOIN countries c ON e.country = c.country
 WHERE c.continent = 'Europe' AND e.year BETWEEN 2006 AND 2018
 ORDER BY e.country, e.year;
-
-
-
-
-
