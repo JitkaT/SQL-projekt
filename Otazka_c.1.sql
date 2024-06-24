@@ -13,6 +13,6 @@ SELECT cpc.industry_branch_code, cpc.name, cpc.payroll_year, cpc2.payroll_year A
 CASE WHEN round((cpc.gross_value-cpc2.gross_value)/cpc2.gross_value * 100, 2) > 0 THEN "increase" ELSE "decrease" END AS result_comment
 FROM czechia_payroll_comp cpc 
 JOIN czechia_payroll_comp cpc2 
-ON cpc.payroll_year = cpc2.payroll_year + 1
+ON cpc.name = cpc2.name AND cpc.payroll_year = cpc2.payroll_year + 1
 GROUP BY industry_branch_code, payroll_year; 
 
