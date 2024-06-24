@@ -2,7 +2,8 @@
 Výzkumné otázky + odpovědi (SQL statementy použité pro vypracování níže uvedných úkolů jsou uloženy jako sql soubory: "Otázka č.1 - 5").
 Všechny finální výstupy z SQL statements byly převedeny do csv a uloženy do přiloženého excel souboru "Comments".
 
-# 1. Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají? Mzdy ve všech odvětvích v průběhu let převážně rostou, je zde pár výjimek (pokles mezd ve srovnání s předešlým oddobí ve stejném odvětví).
+# 1. Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají? 
+Mzdy ve všech odvětvích v průběhu let převážně rostou, je zde pár výjimek (pokles mezd ve srovnání s předešlým oddobí ve stejném odvětví).
 Tyto výjimky jsou uvedeny v přiloženém excel souboru, list "Otázka č. 1", filter na sloupci: "result comment" - "decrease".
 
 # 2. Kolik je možné si koupit litrů mléka a kilogramů chleba za první a poslední srovnatelné období v dostupných datech cen a mezd?
