@@ -3,4 +3,3 @@ SELECT *
 FROM czechia_payroll_comp AS cpc
 JOIN average_prices AS ap
 ON cpc.payroll_year = ap.date;
-
