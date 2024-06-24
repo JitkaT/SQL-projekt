@@ -21,5 +21,3 @@ GROUP BY category_code, date;
 
 
 
-
-
