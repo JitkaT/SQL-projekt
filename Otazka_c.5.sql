@@ -5,6 +5,3 @@ ON my.country = my2.country AND my.YEAR = my2.YEAR + 1
 JOIN total_avg_wages_food_price tawfd ON tawfd.payroll_year = my.year
 WHERE my.country = 'Czech Republic'
 GROUP BY my.year;
-
-
-
