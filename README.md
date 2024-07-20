@@ -21,4 +21,4 @@ Viz excel soubor, list "Otázka č. 3".
 Ve sledovaném období nebyl meziroční nárůst cen potravin o 10 % vyšší než růst mezd.
 
 # 5. Má výška HDP vliv na změny ve mzdách a cenách potravin? Neboli, pokud HDP vzroste výrazněji v jednom roce, projeví se to na cenách potravin či mzdách ve stejném nebo násdujícím roce výraznějším růstem?
-V případě výraznějšího růstu HDP (v tomto případě považujeme za výraznější růst HDP hodnotu 5 %), se tento jev ne vždy promítne do zvýšení cen potravin či do růstu mezd. Nedá se tedy říci, že mezi výraznějším nárůstm HDP, růstem cen potravin a růstem mezd existuje korelace.
+V případě výraznějšího růstu HDP (v tomto případě považujeme za výraznější růst HDP hodnotu 5 %), se tento jev ne vždy promítne do zvýšení cen potravin či do růstu mezd. Nedá se tedy říci, že mezi výraznějším nárůstem HDP, růstem cen potravin a růstem mezd existuje korelace.
