@@ -17,7 +17,3 @@ FROM average_prices ap
 JOIN czechia_payroll_comp cpc ON cpc.payroll_year = ap.date
 WHERE category_code IN (111301, 114201) AND date IN (2006, 2018)
 GROUP BY category_code, date;
-
-
-
-
