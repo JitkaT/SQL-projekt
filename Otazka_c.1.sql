@@ -15,4 +15,3 @@ FROM czechia_payroll_comp cpc
 JOIN czechia_payroll_comp cpc2 
 ON cpc.name = cpc2.name AND cpc.payroll_year = cpc2.payroll_year + 1
 GROUP BY industry_branch_code, payroll_year; 
-
