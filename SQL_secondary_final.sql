@@ -1,4 +1,4 @@
-#Zdrojová tabulka pro otázku č. 5:
+#Zdrojová data pro otázku č. 5:
 CREATE OR REPLACE TABLE t_jitka_ticha_project_sql_secondary_final AS
 SELECT e.country, e.year, e.GDP, e.population, e.GINI
 FROM economies e 
