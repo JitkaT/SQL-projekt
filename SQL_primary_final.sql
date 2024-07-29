@@ -1,4 +1,4 @@
-#Sumerizace vstupních dat:
+#Sumarizace vstupních dat:
 CREATE TABLE t_jitka_ticha_project_SQL_primary_final AS 
 SELECT *
 FROM czechia_payroll_comp AS cpc
