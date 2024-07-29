@@ -1,3 +1,4 @@
+#Přehled dat pro externí uživatele:
 CREATE TABLE t_jitka_ticha_project_SQL_primary_final AS 
 SELECT *
 FROM czechia_payroll_comp AS cpc
